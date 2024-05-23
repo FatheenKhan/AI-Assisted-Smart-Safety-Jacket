@@ -10,9 +10,9 @@
   #define WIFI_SSID "OnePlus 8"
   #define WIFI_PASSWORD "Fateenkh1"
 
-  #define API_KEY "AIzaSyANTrCDRKdY-PqBhK6Q6RS1CheEnG07FWI"    // web api key
+  #define API_KEY ""    // web api key
 
-  #define DATABASE_URL "https://safetyjacket15-default-rtdb.firebaseio.com/" //DATABASE URL
+  #define DATABASE_URL "/" //DATABASE URL
 
   //Define Firebase Data object
   FirebaseData fbdo;
