@@ -28,8 +28,8 @@ accuracy_scores = []
 total_attempts = 0
 unrecognized_attempts = 0
 stored_audio = None
-cred = credentials.Certificate(r"C:\Users\Fateen Khan\PycharmProjects\Project F\.venv\Scripts\safetyjacket15-firebase-adminsdk-qv7da-f2a415427a.json")
-firebase_admin.initialize_app(cred, {'databaseURL': 'https://safetyjacket15-default-rtdb.firebaseio.com/'})
+cred = credentials.Certificate(r"") #use the api security key
+firebase_admin.initialize_app(cred, {'databaseURL': ''}) #use your database api key
 #fetch data (i.e firebase implementation)
 
 def fetch_mq2_sensor_reading():
