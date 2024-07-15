@@ -5,8 +5,10 @@ The project introduces an advanced safety jacket specifically designed for defen
 4.1 PROPOSED ARCHITECTURE
 The proposed architecture for the AI Assisted Safety Jacket represents a comprehensive framework designed to integrate advanced technologies and functionalities seamlessly. This architecture serves as the blueprint for the development and implementation of the jacket, incorporating essential components and systems to enhance safety, monitoring, and communication for users. Through this diagram, we outline the structural elements and interconnections vital for the jacket's operation, providing a visual representation of its robust and innovative design.
 
- 
-Figure 4.1 Architecture Diagram of AI Assisted Safety Jacket
+ ![image](https://github.com/user-attachments/assets/b7371b60-bca0-4fba-80fb-f864d62aa78d)
+
+![image](https://github.com/user-attachments/assets/7f83ab22-9983-4d66-a356-13b9cd8aa4e3)
+
 The Architecture Diagram of the AI Assisted Safety Jacket, depicted in Figure 4.1, illustrates the foundational role of sensor integration in the methodology. Here, a systematic approach is taken to integrate various sensors and technologies into the jacket, ensuring its suitability for military and rescue operations. Sensors such as GPS, heart rate monitors, and microphones are strategically positioned within the jacket to capture vital data in real-time. This integration process is crucial for enabling the jacket to collect and process crucial information while maintaining wearer comfort and usability.
 
 Furthermore, the implementation of an AI assistant is highlighted as a key component of the proposed architecture. The AI assistant serves as an intelligent interface between the wearer and the jacket, capable of processing data inputs, issuing commands, and providing guidance or assistance. Developing the AI assistant involves processing data inputs from integrated sensors and executing predefined algorithms to support decision-making in challenging environments. Through seamless interaction with the wearer, the AI assistant enhances the functionality and effectiveness of the jacket.
@@ -109,4 +111,8 @@ Looking ahead, the future development of the AI-Assisted Smart Safety Jacket hol
 Enhanced intelligence is a cornerstone of the Smart Safety Jacket's future development, enabled by the integration of TinyML. With advanced AI capabilities, the jacket will possess the ability to analyze sensor data, detect patterns, and autonomously make intelligent decisions. This heightened intelligence translates into improved situational awareness, faster response times, and overall enhanced performance for soldiers and rescue personnel. Additionally, optimized sensor functionality through AI embedding will further enhance the jacket's effectiveness. Intelligent sensors will process data locally, filtering out irrelevant information and transmitting critical insights to the central processing unit. This streamlined approach minimizes latency, conserves power, and maximizes effectiveness, ensuring timely and accurate information delivery for informed decision-making.
 
 By seamlessly integrating these future enhancements with the existing capabilities of the Smart Safety Jacket, the device will continue to serve as a vital tool for safeguarding and empowering military and rescue personnel. From enhanced processing capabilities to optimized sensor functionality, these advancements underscore a commitment to leveraging cutting-edge technology for the betterment of safety, communication, and situational awareness in defense and rescue missions. The ongoing evolution of the Smart Safety Jacket reflects a dedication to innovation and excellence in serving those who serve on the front lines of duty.
+![image](https://github.com/user-attachments/assets/32cf99cc-8747-40b3-a5a9-f91f1270c859)
+![image](https://github.com/user-attachments/assets/581f8de9-3cf7-4142-96d1-bad93a34ff19)
+![image](https://github.com/user-attachments/assets/f8dc375f-53b2-4496-a946-4a134c730dca)
+
 
